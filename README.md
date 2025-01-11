@@ -35,7 +35,7 @@
 
 ## 🖼️ Capturas de Pantalla
 
-![Vista de Carpetas](screenshots/folders-view.png)
+![Vista de Carpetas](screenshots/folders-view.jpg)
 *Vista de las carpetas organizadas*
 
 ## 🛠️ Tecnologías
